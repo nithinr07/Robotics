@@ -1,4 +1,4 @@
-t arr[4];int led1=9;
+int arr[4]={0};int led1=9;
 void a()
 {
   for(int i=0;i<4;i++)
